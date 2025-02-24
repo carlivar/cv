@@ -7,7 +7,7 @@ _Technology leader with significant experience in Infrastructure, DevOps, Site R
 ## Experience
 
 **Sr. Director, Engineering** @ [The Trade Desk](https://thetradedesk.com/) _(May 2016 - Present)_ <br>
-The Internet's leading Demand Side Platform.
+The Open Internet's leading programmatic advertising Demand Side Platform.
   - Responsible for global, hybrid technology infrastructure that handles 18 million reqs/sec and nearly 1 exabyte of total data storage.
   - Grew a DevOps team of 4 engineers to a worldwide organization of 83 people.
   - Accountable for an annual technology budget close to $500 million combined CapEx & OpEx.
