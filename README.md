@@ -81,7 +81,7 @@ Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/
 
 Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
 
-## Interests
+## ✨ Interests
 
 ✈️  Traveling<br>
 📚 Reading<br>
