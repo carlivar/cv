@@ -36,19 +36,19 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 <br><br>
 
 **Network Operations Supervisor** @ [DreamWorks Animation](https://dreamworks.com) _(2010-2013)_
-<br><br>
+<br>
 
 **Director of Information Security** @ [YP](https://yellowpages.com) _(2008-2010)_
-<br><br>
+<br>
 
 **Paranoid / Network Architect / Information Security Engineer** @ [Yahoo!](https://yahoo.com) _(2002-2008)_
-<br><br>
+<br>
 
 **Network Engineer** @ [Move, Inc.](https://move.com) _(2000-2002)_
-<br><br>
+<br>
 
 **Network Engineer** @ Datatran Network Systems _(1998-2000)_
-<br><br>
+<br>
 
 ## Accomplishments
 
@@ -75,10 +75,3 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_<br>
 
 Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
-
-## Interests
-
-  - Travel
-  - Classic cars
-  - Literature
-  - Music
