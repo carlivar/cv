@@ -1,8 +1,8 @@
 # Carl I. Johnson
 
-_Technology leader with significant experience in Infrastructure, DevOps, Site Reliability Engineering (SRE), Information Security, Network Engineering, and Information Technology_
+_Technology leader with significant experience at scale in Infrastructure, DevOps, Site Reliability Engineering (SRE), Information Security, Network Engineering, and Information Technology_
 
-[Email](mailto:carl@hey.com) / [Résumé/CV](https://carlivar.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/carlivar/) / [GitHub](https://github.com/carlivar/)
+[Email](mailto:carl@hey.com) | [Résumé/CV](https://carlivar.github.io/cv) | [LinkedIn](https://www.linkedin.com/in/carlivar/) | [GitHub](https://github.com/carlivar/)
 
 ## Experience
 
@@ -48,7 +48,7 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 <br>
 
 **Network Engineer** @ Datatran Network Systems _(1998-2000)_
-<br>
+<br><br>
 
 ## Accomplishments
 
@@ -73,6 +73,7 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 **Section 609 MVAC Technician Certification** _(2008)_<br>
 **Cisco Certified Network Professional (CCNP)** _(1999)_<br>
 **Cisco Certified Network Associate (CCNA)** _(1998)_<br>
+<br>
 
 ## Education
 
