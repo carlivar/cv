@@ -4,7 +4,7 @@ _Technology leader with significant experience at scale in Infrastructure, DevOp
 
 [Email](mailto:carl@hey.com) | [Résumé/CV](https://carlivar.github.io/cv) | [LinkedIn](https://www.linkedin.com/in/carlivar/) | [GitHub](https://github.com/carlivar/)
 
-## Experience
+## 👨‍💻 Experience
 
 **Sr. Director, Engineering** @ [The Trade Desk](https://thetradedesk.com/) _(May 2016 - Present)_ <br>
 The Open Internet's leading programmatic advertising Demand Side Platform.
