@@ -48,6 +48,7 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 <br><br>
 
 **Network Engineer** @ Datatran Network Systems _(1998-2000)_
+<br><br>
 
 ## Accomplishments
 
@@ -65,9 +66,9 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 
 ## Licenses & Certifications
 
-**Section 609 MVAC Technician Certification** _(November 2008)_
-**Cisco Certified Network Professional (CCNP)** _(1999)_
-**Cisco Certified Network Associate (CCNA)** _(1998)_
+**Section 609 MVAC Technician Certification** _(November 2008)_<br>
+**Cisco Certified Network Professional (CCNP)** _(1999)_<br>
+**Cisco Certified Network Associate (CCNA)** _(1998)_<br>
 
 ## Education
 
