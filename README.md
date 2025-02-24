@@ -71,6 +71,7 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 
 ## Education
 
-Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_<br>
+Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_
+<br><br>
 
-Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
+Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_
