@@ -7,15 +7,16 @@ _Technology leader with significant experience in Infrastructure, DevOps, Site R
 ## Experience
 
 **Sr. Director, Engineering** @ [The Trade Desk](https://thetradedesk.com/) _(May 2016 - Present)_ <br>
-The open Internet's leading Demand Side Platform.
+The Internet's leading Demand Side Platform.
   - Responsible for global, hybrid technology infrastructure that handles 18 million reqs/sec and nearly 1 exabyte of total data storage.
   - Grew a DevOps team of 4 engineers to a worldwide organization of 83 people.
-  - Created several new teams and roles, such as: information security, network engineering, and datacenter engineering.
-  - Responsible for technology aspects of Sarbanes-Oxley compliance related to IPO. Achieved SOC1/SOC2 compliance in 2022 and annually since.
+  - Accountable for an annual technology budget close to $500 million combined CapEx & OpEx.
+  - In addition to core software engineering and SRE teams, created several new roles, such as: information security, network engineering, and datacenter engineering.
+  - Responsible for technology aspects of Sarbanes-Oxley compliance related to 2016 IPO and continuously since. Achieved SOC1/SOC2 compliance in 2022 and annually since.
   - Successfully replaced inefficient, outsourced datacenters with in-house responsibilities, saving tens of millions of dollars.
-  - Launched two additional cloud platforms to Amazon Web Services (AWS): Azure and Alibaba Cloud.
+  - Implemented custom Terraform-based software to provide self-service developer interaction with multiple cloud platforms: Amazon Web Services (AWS), Azure, and Alibaba Cloud.
   - Oversaw several significant migration projects covering thousands of hosts: Windows to Linux, traditional methods to Docker, and most recently, Kubernetes.
-  - Successfully deployed Kubernetes to thousands of servers in on-premise datacenters.
+  - Successfully deployed open-source Kubernetes to thousands of servers in on-premise datacenters.
   - Developed and implemented an Incident Management process that is used company-wide.
   - Created a "Kafka as a Service" option for development teams to easily leverage Kafka for messaging, queuing, and data pipelines where appropriate.
 <br><br>
@@ -34,40 +35,42 @@ A prominent Sell Side Platform in the world of programmatic advertising.
   - Negotiated financial terms with vendors and managed a multi­million dollar budget.
 <br><br>
 
-**Network Operations Supervisor** @ [DreamWorks Animation](https://dreamworks.com) (2010-2013)
+**Network Operations Supervisor** @ [DreamWorks Animation](https://dreamworks.com) _(2010-2013)_
 <br><br>
 
-**Director of Information Security** @ [YP](https://yellowpages.com) (2008-2010)
+**Director of Information Security** @ [YP](https://yellowpages.com) _(2008-2010)_
 <br><br>
 
-**Paranoid / Network Architect / Information Security Engineer** @ [Yahoo!](https://yahoo.com) (2002-2008)
+**Paranoid / Network Architect / Information Security Engineer** @ [Yahoo!](https://yahoo.com) _(2002-2008)_
 <br><br>
 
-**Network Engineer** @ [Move, Inc.](https://move.com) (2000-2002)
+**Network Engineer** @ [Move, Inc.](https://move.com) _(2000-2002)_
 <br><br>
 
-**Network Engineer** @ Datatran Network Systems (1998-2000)
+**Network Engineer** @ Datatran Network Systems _(1998-2000)_
 
 ## Accomplishments
 
-**OpenX David Award** _December 2013_<br>
+**OpenX David Award** _(December 2013)_<br>
 Inaugural receipient of the "David Award", of "David and Goliath" fame. This award was created in the Engineering department to identify people that achieve the most with limited resources. In addition to a certificate, I received a slingshot.
 <br><br>
 
-**Yahoo! Super Paranoid** _December 2006_<br>
+**Yahoo! Super Paranoid** _(December 2006)_<br>
 Yahoo!'s information security group was called the Paranoids. I was one of a handful of "Super Paranoids" identified in 2006, due to my efforts supporting information security within the Search Marketing division of Yahoo!. I received a full-size poster with my own likeness drawn in comic book form.
 <br><br>
 
-**Yahoo! I.T. Certificate of Excellence** _February 2005_<br>
+**Yahoo! I.T. Certificate of Excellence** _(February 2005)_<br>
 In recognition of exceptional guidance and tireless support of the Vertisoft acquisition (a tricky I.T. integration project). In addition to a certificate, I received a lava lamp.
 <br><br>
 
 ## Licenses & Certifications
 
-**Section 609 MVAC Technician Certification** _November 2008_
+**Section 609 MVAC Technician Certification** _(November 2008)_
+**Cisco Certified Network Professional (CCNP)** _(1999)_
+**Cisco Certified Network Associate (CCNA)** _(1998)_
 
 ## Education
 
-Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) - _2019_<br>
+Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_<br>
 
-Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) - _1995-1998_<br>
+Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
