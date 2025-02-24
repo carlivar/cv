@@ -66,7 +66,7 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 
 ## Licenses & Certifications
 
-**Section 609 MVAC Technician Certification** _(November 2008)_<br>
+**Section 609 MVAC Technician Certification** _(2008)_<br>
 **Cisco Certified Network Professional (CCNP)** _(1999)_<br>
 **Cisco Certified Network Associate (CCNA)** _(1998)_<br>
 
@@ -75,3 +75,10 @@ In recognition of exceptional guidance and tireless support of the Vertisoft acq
 Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_<br>
 
 Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
+
+## Interests
+
+  - Travel
+  - Classic cars
+  - Literature
+  - Music
