@@ -52,7 +52,7 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 
 ## Accomplishments
 
-**Speaker, [SCALE (Southern California Linux Expo)](https://www.socallinuxexpo.org/)** _(February 2015)_
+**Speaker, [SCALE (Southern California Linux Expo)](https://www.socallinuxexpo.org/)** _(February 2015)_<br>
 Topic: ["Service discovery and configuration with Consul"](https://www.socallinuxexpo.org/scale/13x/presentations/service-discovery-and-configuration-consul)
 <br><br>
 
