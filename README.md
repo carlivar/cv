@@ -1,6 +1,6 @@
 # Carl I. Johnson
 
-_Technology leader specializing in infrastructure, DevOps, and SRE_ <br>
+_Technology leader with significant experience in Infrastructure, DevOps, SRE, Information Security, Network Engineering, and Information Technology_
 
 [Email](mailto:carl@hey.com) / [Résumé/CV](https://carlivar.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/carlivar/) / [GitHub](https://github.com/carlivar/)
 
