@@ -52,6 +52,10 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 
 ## Accomplishments
 
+**Speaker, [SCALE (Southern California Linux Expo)](https://www.socallinuxexpo.org/)** _(February 2015)_
+Topic: ["Service discovery and configuration with Consul"](https://www.socallinuxexpo.org/scale/13x/presentations/service-discovery-and-configuration-consul)
+<br><br>
+
 **OpenX David Award** _(December 2013)_<br>
 Inaugural receipient of the "David Award", of "David and Goliath" fame. This award was created in the Engineering department to identify people that achieve the most with limited resources. In addition to a certificate, I received a slingshot.
 <br><br>
