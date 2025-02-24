@@ -50,7 +50,7 @@ A prominent Sell Side Platform in the world of programmatic advertising.
 **Network Engineer** @ Datatran Network Systems _(1998-2000)_
 <br><br>
 
-## Accomplishments
+## 🏆 Accomplishments
 
 **Speaker, [SCALE (Southern California Linux Expo)](https://www.socallinuxexpo.org/)** _(February 2015)_<br>
 Topic: ["Service discovery and configuration with Consul"](https://www.socallinuxexpo.org/scale/13x/presentations/service-discovery-and-configuration-consul)
@@ -68,15 +68,22 @@ Yahoo!'s information security group was called the Paranoids. I was one of a han
 In recognition of exceptional guidance and tireless support of the Vertisoft acquisition (a tricky I.T. integration project). In addition to a certificate, I received a lava lamp.
 <br><br>
 
-## Licenses & Certifications
+## 🪪 Licenses & Certifications
 
 **Section 609 MVAC Technician Certification** _(2008)_<br>
 **Cisco Certified Network Professional (CCNP)** _(1999)_<br>
 **Cisco Certified Network Associate (CCNA)** _(1998)_<br>
 <br>
 
-## Education
+## 📖 Education
 
 Management Essentials @ [Harvard Business School Online](https://online.hbs.edu/) _(2019)_<br>
 
 Computer Science @ [University of Illinois at Urbana-Champaign](https://uiuc.edu) _(1995-1998)_<br>
+
+## Interests
+
+✈️  Traveling<br>
+📚 Reading<br>
+🚗 Classic Cars<br>
+⛷️ Skiing<br>
