@@ -6,7 +6,7 @@ _Technology leader with significant experience at scale in Infrastructure, DevOp
 
 ## 👨‍💻 Experience
 
-**Sr. Director, Engineering** @ [The Trade Desk](https://thetradedesk.com/) _(May 2016 - Present)_ <br>
+**Sr. Director, Engineering** @ [The Trade Desk](https://thetradedesk.com/) - Ventura, California _(May 2016 - Present)_ <br>
 The Open Internet's leading programmatic advertising Demand Side Platform.
   - Responsible for global, hybrid technology infrastructure that handles 18 million reqs/sec and nearly 1 exabyte of total data storage.
   - Grew a DevOps team of 4 engineers to a worldwide organization of 83 people.
@@ -21,7 +21,7 @@ The Open Internet's leading programmatic advertising Demand Side Platform.
   - Created a "Kafka as a Service" option for development teams to easily leverage Kafka for messaging, queuing, and data pipelines where appropriate.
 <br><br>
 
-**Director, Engineering** @ [OpenX](https://openx.com) _(January 2013 - April 2016)_ <br>
+**Director, Engineering** @ [OpenX](https://openx.com) - Pasadena, California _(January 2013 - April 2016)_ <br>
 A prominent Sell Side Platform in the world of programmatic advertising.
   - Led Site Reliability Engineering, Release Engineering, Network Engineering, and Information Security teams.
   - Responsible for 24x7x365 production datacenter uptime for thousands of hosts in 5 worldwide datacenters that each serve 100k+ requests/second.
@@ -35,19 +35,19 @@ A prominent Sell Side Platform in the world of programmatic advertising.
   - Negotiated financial terms with vendors and managed a multi­million dollar budget.
 <br><br>
 
-**Network Operations Supervisor** @ [DreamWorks Animation](https://dreamworks.com) _(2010-2013)_
+**Network Operations Supervisor** @ [DreamWorks Animation](https://dreamworks.com) - Glendale, California  _(2010-2013)_
 <br>
 
-**Director of Information Security** @ [YP](https://yellowpages.com) _(2008-2010)_
+**Director of Information Security** @ [YP](https://yellowpages.com) - Glendale, California _(2008-2010)_
 <br>
 
-**Paranoid / Network Architect / Information Security Engineer** @ [Yahoo!](https://yahoo.com) _(2002-2008)_
+**Paranoid / Network Architect / Information Security Engineer** @ [Yahoo!](https://yahoo.com) - Burbank, California _(2002-2008)_
 <br>
 
-**Network Engineer** @ [Move, Inc.](https://move.com) _(2000-2002)_
+**Network Engineer** @ [Move, Inc.](https://move.com) - Thousand Oaks, California _(2000-2002)_
 <br>
 
-**Network Engineer** @ Datatran Network Systems _(1998-2000)_
+**Network Engineer** @ Datatran Network Systems - Thousand Oaks, California _(1998-2000)_
 <br><br>
 
 ## 🏆 Accomplishments
